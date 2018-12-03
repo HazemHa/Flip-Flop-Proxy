@@ -1,0 +1,13 @@
+C:\Users\Hazem\source\repos\ProxySetUp\ProxySetUp\bin\Debug\Flip-flop Proxy.exe.config
+C:\Users\Hazem\source\repos\ProxySetUp\ProxySetUp\bin\Debug\Flip-flop Proxy.exe
+C:\Users\Hazem\source\repos\ProxySetUp\ProxySetUp\bin\Debug\Flip-flop Proxy.pdb
+C:\Users\Hazem\source\repos\ProxySetUp\ProxySetUp\bin\Debug\en-US\Flip-flop Proxy.resources.dll
+C:\Users\Hazem\source\repos\ProxySetUp\ProxySetUp\obj\Debug\Proxy.csprojResolveAssemblyReference.cache
+C:\Users\Hazem\source\repos\ProxySetUp\ProxySetUp\obj\Debug\Proxy.FlipFlopProxy.resources
+C:\Users\Hazem\source\repos\ProxySetUp\ProxySetUp\obj\Debug\GlobalProxy.Properties.Resources.resources
+C:\Users\Hazem\source\repos\ProxySetUp\ProxySetUp\obj\Debug\Proxy.FlipFlopProxy.en-US.resources
+C:\Users\Hazem\source\repos\ProxySetUp\ProxySetUp\obj\Debug\Proxy.csproj.GenerateResource.Cache
+C:\Users\Hazem\source\repos\ProxySetUp\ProxySetUp\obj\Debug\Proxy.csproj.CoreCompileInputs.cache
+C:\Users\Hazem\source\repos\ProxySetUp\ProxySetUp\obj\Debug\en-US\Flip-flop Proxy.resources.dll
+C:\Users\Hazem\source\repos\ProxySetUp\ProxySetUp\obj\Debug\Flip-flop Proxy.exe
+C:\Users\Hazem\source\repos\ProxySetUp\ProxySetUp\obj\Debug\Flip-flop Proxy.pdb

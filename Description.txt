@@ -1,0 +1,4 @@
+﻿Setting up the proxy setting..
+ By add a list of servers for, HTTP, HTTPS, FTP, SOCKS
+ and Change proxy auto by every time 
+it is stored or you can change it is manually
