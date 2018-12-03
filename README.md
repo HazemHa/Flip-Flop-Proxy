@@ -4,7 +4,8 @@
  Flip-Flop-Proxy
  </h3>
  <p>
- 
+   <img src="https://i.imgur.com/ooki17g.png" />
+
  </p>
  
  
@@ -46,6 +47,7 @@ Auto
  <p>
  <h4>
  edit it form register with the correct format..
+  <img src="https://i.imgur.com/atfB4Vc.png" />
  
  </h4>
  </p>
